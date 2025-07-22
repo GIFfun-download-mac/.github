@@ -57,7 +57,7 @@ GIFfun is a dedicated macOS application designed to convert videos and photo seq
 
 ![GIFfun Screenshot 1](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e6/ee/3c/e6ee3c40-bf03-1e05-31b9-7196b14e11d6/47e288a9-9477-4ec4-9d1c-07d67f9fba94_gf1.png/643x0w.jpg)  
 ![GIFfun Screenshot 2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bd/fa/9a/bdfa9ac8-f1a2-cbe3-7c84-8602f2abd456/209bfcc7-d45f-4538-a040-824fe236a388_gf3.png/643x0w.jpg)  
-![GIFfun Screenshot 3](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e6/ee/3c/e6ee3c40-bf03-1e05-31b9-7196b14e11d6/47e288a9-9477-4ec4-9d1c-07d67f9fba94_gf1.png/643x0w.jpg)
+
 
 ---
 
